@@ -1,7 +1,7 @@
 ---
-BasedOnStyle: llvm
-IndentWidth: 2
+BasedOnStyle: Microsoft
+IndentWidth: 4
 
 # do not sort header files
-SortIncludes: false
+SortIncludes: Never
 ColumnLimit: 300
